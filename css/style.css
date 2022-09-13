@@ -1,0 +1,14 @@
+.nav-item{
+    align-items: flex-end;
+}
+h5,{
+    color: rgb(253, 249, 249);
+}
+
+footer{
+    height: 50px;
+}
+
+@media screen and (max-width: 900px){
+
+}
