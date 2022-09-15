@@ -14,7 +14,14 @@ h5 {
 .btn {
     font-family: 'Lobster';
 }
+@media screen and (max-width: 992px){
+body{
+    background-color: rgb(152, 152, 164);
+}
+.btn{
+    font-family: 'Open Sans', sans-serif;
+    font-size: larger;
+}
 
-.text-center{
-    justify-content: space-evenly;
+
 }
